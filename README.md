@@ -26,15 +26,13 @@ Perfect for **portfolio projects, personal websites, or UI/UX demos**, this comp
 
 ## 🚀 Live Demo
 
-👉 *(Add live link here if hosted)*
+👉 https://persona-card.netlify.app/
 
 ---
 
 ## 🖼️ Preview
+![card](https://github.com/user-attachments/assets/153758a2-a8d8-4df6-b4c9-12490ca9880a)
 
-| Normal View                                          | Expanded Social Links                        |
-| ---------------------------------------------------- | -------------------------------------------- |
-| ![Profile Card](assets/img/cropped_circle_image.png) | *(Screenshot showing social links expanded)* |
 
 ---
 
@@ -136,8 +134,6 @@ You can deploy this project using:
 **Hamayl Shah**
 Front-End Developer | Software Engineer
 🚀 Passionate about modern UI/UX and interactive web components
-📬 Email: *add your email here*
-🌐 Portfolio: *add your portfolio link here*
 
 ---
 
